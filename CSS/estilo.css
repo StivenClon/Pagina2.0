@@ -30,3 +30,23 @@ body{
     text-transform: uppercase;
     border-radius: 32px;
 }
+
+.cabecera{
+    font-size: 35px;
+    border: 6px solid magenta;
+    border-radius: 32px;
+    color: black;
+    background-color: aquamarine;
+    margin: 32px;
+    text-align: center;
+}
+
+.footer{
+    font-size: 32px;
+    color: black;
+    text-align: center;
+    border: 1px solid red;
+    background-color: red;
+    
+
+}
