@@ -30,3 +30,12 @@ body{
     text-transform: uppercase;
     border-radius: 32px;
 }
+
+.cabecera{
+    font-size: 32px;
+    border: 6px solid magenta;
+    border-radius: 30px;
+    color: black;
+    background-color: aquamarine;
+    margin: 30px;
+}
