@@ -1,0 +1,32 @@
+body{
+    font-family: sans-serif;
+    font-weight: bold;
+    background-color: lavenderblush;
+}
+
+.container{
+    border: 3px solid black;
+    background-color: aqua;
+    color: blue;
+    border-radius: 16px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.contenido{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    color: darkorange;
+    text-align: right;
+
+}
+
+.contenido h3{
+    border: 3px solid black;
+    color: red;
+    font-size: 32px;
+    text-align: center;
+    padding: 30px;
+    text-transform: uppercase;
+    border-radius: 32px;
+}
