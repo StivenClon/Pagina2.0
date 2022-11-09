@@ -54,6 +54,15 @@ body{
     text-align: center;
     border: 1px solid red;
     background-color: red;
-    
+}
 
+.piePagina{
+    color: darkviolet;
+    border: 3px solid black;
+    background-color: rgb(229, 22, 226);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px;
+    margin: 25px;
 }
