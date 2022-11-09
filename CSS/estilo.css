@@ -41,6 +41,13 @@ body{
     text-align: center;
 }
 
+.header{
+    color: rgb(2, 53, 255);
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+}
+
 .footer{
     font-size: 32px;
     color: black;
